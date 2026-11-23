@@ -2,19 +2,16 @@
 
 ## 1. Grit
 
-**Answer 1:**
 
 Grit means having passion for a long-term goal and continuing to work towards it even when things get difficult. Talent alone is not enough; consistent effort and perseverance are also important.
 
 ## 2. Introduction to Growth Mindset
 
-**Answer 2:**
 
 A growth mindset is believing that we can improve our skills and abilities through learning and effort. Instead of avoiding challenges, mistakes and feedback, we should use them as opportunities to improve.
 
 ## 3. Understanding Internal Locus of Control
 
-**Answer 3:**
 
 Internal Locus of Control means believing that our actions and efforts have an influence on the results we get.
 
@@ -22,7 +19,6 @@ The key point in the video is that instead of blaming situations or other people
 
 ## 4. How to Build a Growth Mindset
 
-**Answer 4:**
 
 1. Believe in your ability to figure things out.
 2. Question your assumptions.
@@ -31,7 +27,6 @@ The key point in the video is that instead of blaming situations or other people
 
 ## 5. My Ideas to Take Action and Build a Growth Mindset
 
-**Answer 5:**
 
 1. Take responsibility for my own learning instead of depending on others.
 2. Practice coding regularly and keep working on problems even when they are difficult.
